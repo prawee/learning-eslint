@@ -1,3 +1,5 @@
+let didShowMessage = false;
+
 function showMessage() {
     const message = 'I like logs';
 
